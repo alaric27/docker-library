@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/pause-amd64:3.0
-MAINTAINER mritd <mritd@mritd.me>
+FROM k8s.gcr.io/pause:3.1
+MAINTAINER zhaiyanan27 <zhaiyanan27@163.com>
